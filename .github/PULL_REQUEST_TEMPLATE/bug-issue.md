@@ -1,9 +1,10 @@
 ---
 name: Bug Issue
 about: 버그 리포트 이슈
-title: ""
-labels: ""
-assignees: ""
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 ## 어떤 버그인가요?
